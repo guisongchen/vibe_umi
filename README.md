@@ -225,6 +225,13 @@ This documentation is provided for educational and research purposes. Please ref
 
 ---
 
+## 🌐 Language
+
+- English Version (Current)
+- [中文版本](README_zh.md)
+
+---
+
 *Last Updated: March 2026*
 
 *Maintained by: vibe_umi contributors*
